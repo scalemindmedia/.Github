@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://scalemindmedia.com/">
-    <img src="https://scalemindmedia.com/wp-content/uploads/2022/05/scalemind-logo-w.svg" alt="ScaleMind logo" width="280">
+    <img src="https://avatars.githubusercontent.com/u/353996047?v=4" alt="ScaleMind logo" width="280">
   </a>
 </p>
 
